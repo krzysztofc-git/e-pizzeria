@@ -2,7 +2,17 @@
 
 ## Features
 
-To be described...
+<p float="left">
+<img src="info/index1.png" width="480" />
+<img src="info/gallery2.png" width="480" />
+<img src="info/login1.png" width="480" />
+<img src="info/reservation1.png" width="480" />
+<img src="info/status1.png" width="480" />
+<img src="info/status2.png" width="480" />
+<img src="info/gallery1.png" width="240" />
+<img src="info/status3.png" width="240" />
+<img src="info/status4.png" width="240" />
+</p>
 
 ## Configuration (for Windows) - easy version
 
