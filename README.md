@@ -1,6 +1,19 @@
 # e-pizzeria
 
+This is an online pizzeria website. The customer places orders using the form in reservation.php (Reserve button in the navigation bar).
+The Login and Register page are intended for employees.
+Before booking an order, the website user can see the interactive photo gallery of pizzas along with the description that is taken from the database.
+The employee registration form uses PHP-level security, providing the correct registration access code.
+The employee's task is to change the status of customer orders. After logging in, the employee is being redirected to status.php and can check the order details there, just like a customer, but with possibility of changing it (optionally adding a comment when canceling the order). Moreover, the status.php page is refreshed automatically.
+
 ## Features
+
+- Details of products taken from the database
+- Register / Login functionality using PHP
+- Calculating prices, ordering products via form
+- JavaScript elements like interactive gallery, a refresh button, hidden menu and more
+- Employees can be registered using the form, inputting the security code (123456)
+- Managing orders - done by employees / Checking orders - done by customers
 
 <p float="left">
 <img src="info/index1.png" width="360" />
