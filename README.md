@@ -28,6 +28,20 @@ The employee's task is to change the status of customer orders. After logging in
 <img src="info/status4.png" width="240" />
 </p>
 
+<details>
+    <summary>Click to see above images bigger</summary>
+
+  ![](info/index1.png)
+  ![](info/gallery2.png)
+  ![](info/login1.png)
+  ![](info/reservation1.png)
+  ![](info/status1.png)
+  ![](info/status2.png)
+  <img src="info/gallery1.png" width="32%" />
+<img src="info/status3.png" width="32%" />
+<img src="info/status4.png" width="32%" />
+
+</details>
 
 ## Configuration (for Windows) - easy version
 
