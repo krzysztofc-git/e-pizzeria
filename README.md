@@ -15,21 +15,8 @@ The employee's task is to change the status of customer orders. After logging in
 - Employees can be registered using the form, inputting the security code (123456)
 - Managing orders - done by employees / Checking orders - done by customers
 
-<p float="left">
-<img src="info/index1.png" width="360" />
-<img src="info/gallery2.png" width="360" />
-<img src="info/login1.png" width="360" />
-<img src="info/reservation1.png" width="360" />
-<img src="info/status1.png" width="360" />
-<img src="info/status2.png" width="360" />
-<br>
-<img src="info/gallery1.png" width="240" />
-<img src="info/status3.png" width="240" />
-<img src="info/status4.png" width="240" />
-</p>
-
 <details>
-    <summary>Click to see above images bigger</summary>
+    <summary>Click here to see the pictures below enlarged</summary>
 
   ![](info/index1.png)
   ![](info/gallery2.png)
@@ -42,6 +29,19 @@ The employee's task is to change the status of customer orders. After logging in
     <img src="info/status4.png" width="32%" />
 
 </details>
+
+<p float="left">
+<img src="info/index1.png" width="360" />
+<img src="info/gallery2.png" width="360" />
+<img src="info/login1.png" width="360" />
+<img src="info/reservation1.png" width="360" />
+<img src="info/status1.png" width="360" />
+<img src="info/status2.png" width="360" />
+<br>
+<img src="info/gallery1.png" width="240" />
+<img src="info/status3.png" width="240" />
+<img src="info/status4.png" width="240" />
+</p>
 
 ## Configuration (for Windows) - easy version
 
