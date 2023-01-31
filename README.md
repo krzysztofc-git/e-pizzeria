@@ -37,9 +37,9 @@ The employee's task is to change the status of customer orders. After logging in
   ![](info/reservation1.png)
   ![](info/status1.png)
   ![](info/status2.png)
-  <img src="info/gallery1.png" width="32%" />
-<img src="info/status3.png" width="32%" />
-<img src="info/status4.png" width="32%" />
+    <img src="info/gallery1.png" width="32%" />
+    <img src="info/status3.png" width="32%" />
+    <img src="info/status4.png" width="32%" />
 
 </details>
 
